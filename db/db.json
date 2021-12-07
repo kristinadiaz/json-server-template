@@ -55,6 +55,62 @@
       "image": "https://cdn3.whatculture.com/images/2017/03/0191cad8278dff8f-600x338.jpg",
       "category": "hero",
       "strength": 13
+    },
+    {
+      "id": 9,
+      "name": "Stalkoblin",
+      "image": "https://www.zeldadungeon.net/wiki/images/0/05/Stalkoblin.jpg",
+      "category": "monster",
+      "strength": 6
+    },
+    {
+      "id": 10,
+      "name": "Bokoblin",
+      "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/58/BotW_Black_Bokoblin_Model.png/revision/latest/scale-to-width-down/250?cb=20180103012046",
+      "category": "monster",
+      "strength": 8
+    },
+    {
+      "id": 11,
+      "name": "Fire Wizzrobe",
+      "image": "https://www.zeldadungeon.net/wiki/images/5/51/Fire-wizzrobe.jpg",
+      "category": "monster",
+      "strength": 8
+    },
+    {
+      "id": 12,
+      "name": "Hinox",
+      "image": "https://www.zeldadungeon.net/wiki/images/thumb/a/ac/Hinox-botw.jpg/200px-Hinox-botw.jpg",
+      "category": "monster",
+      "strength": 13
+    },
+    {
+      "id": 13,
+      "name": "Lynel",
+      "image": "https://www.pngitem.com/pimgs/m/146-1462923_botw-lynel-concept-art-legend-of-zelda-breath.png",
+      "category": "monster",
+      "strength": 15
+    },
+    {
+      "id": 14,
+      "name": "Lizalfos",
+      "image": "https://images.saymedia-content.com/.image/t_share/MTc0NDU1NTk5MTQzMTM0NTY4/most-annoying-monsters-breath-of-the-wild.png",
+      "category": "monster",
+      "strength": 7
+    },
+    {
+      "id": 15,
+      "name": "Chuchu",
+      "image": "https://images.saymedia-content.com/.image/t_share/MTc0NDU1NTk5MTQzMTM0NTY4/most-annoying-monsters-breath-of-the-wild.png",
+      "category": "monster",
+      "strength": 2
+    },
+    {
+      "id": 16,
+      "name": "Yiga Foot Soldier",
+      "image": "https://www.zeldadungeon.net/wiki/images/9/9d/Yiga-footsoldier.jpg",
+      "category": "monster",
+      "strength": 7
     }
   ]
 }
