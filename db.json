@@ -1,0 +1,116 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Link",
+      "image": "https://cdn3.whatculture.com/images/2017/03/c8c9d0abd61aafd7-600x338.png",
+      "category": "hero",
+      "strength": 15
+    },
+    {
+      "id": 2,
+      "name": "Zelda",
+      "image": "https://www.videogamer.com/wp-content/uploads/c8ece80c-974a-42c0-a0ce-93f3fccd980d_Zelda.jpg",
+      "category": "hero",
+      "strength": 10
+    },
+    {
+      "id": 3,
+      "name": "Impa",
+      "image": "https://cdn3.whatculture.com/images/2017/03/93ea65e01e6857bc-600x338.jpg",
+      "category": "hero",
+      "strength": 9
+    },
+    {
+      "id": 4,
+      "name": "Hudson",
+      "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f5/BotW_Hudson_Model.png/revision/latest/scale-to-width-down/320?cb=20210423204715",
+      "category": "hero",
+      "strength": 11
+    },
+    {
+      "id": 5,
+      "name": "Revali",
+      "image": "https://cdn3.whatculture.com/images/2017/03/f089c816a731e085-600x338.jpg",
+      "category": "hero",
+      "strength": 12
+    },
+    {
+      "id": 6,
+      "name": "Daruk",
+      "image": "https://cdn3.whatculture.com/images/2017/03/c13933912460342c-600x338.png",
+      "category": "hero",
+      "strength": 15
+    },
+    {
+      "id": 7,
+      "name": "Mipha",
+      "image": "https://cdn3.whatculture.com/images/2017/03/ec150b86c8c9988f-600x338.jpg",
+      "category": "hero",
+      "strength": 13
+    },
+    {
+      "id": 8,
+      "name": "Prince Sidon",
+      "image": "https://cdn3.whatculture.com/images/2017/03/0191cad8278dff8f-600x338.jpg",
+      "category": "hero",
+      "strength": 13
+    },
+    {
+      "id": 9,
+      "name": "Stalkoblin",
+      "image": "https://www.zeldadungeon.net/wiki/images/0/05/Stalkoblin.jpg",
+      "category": "monster",
+      "strength": 6
+    },
+    {
+      "id": 10,
+      "name": "Bokoblin",
+      "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/58/BotW_Black_Bokoblin_Model.png/revision/latest/scale-to-width-down/250?cb=20180103012046",
+      "category": "monster",
+      "strength": 8
+    },
+    {
+      "id": 11,
+      "name": "Fire Wizzrobe",
+      "image": "https://www.zeldadungeon.net/wiki/images/5/51/Fire-wizzrobe.jpg",
+      "category": "monster",
+      "strength": 8
+    },
+    {
+      "id": 12,
+      "name": "Hinox",
+      "image": "https://www.zeldadungeon.net/wiki/images/thumb/a/ac/Hinox-botw.jpg/200px-Hinox-botw.jpg",
+      "category": "monster",
+      "strength": 13
+    },
+    {
+      "id": 13,
+      "name": "Lynel",
+      "image": "https://www.pngitem.com/pimgs/m/146-1462923_botw-lynel-concept-art-legend-of-zelda-breath.png",
+      "category": "monster",
+      "strength": 15
+    },
+    {
+      "id": 14,
+      "name": "Lizalfos",
+      "image": "https://images.saymedia-content.com/.image/t_share/MTc0NDU1NTk5MTQzMTM0NTY4/most-annoying-monsters-breath-of-the-wild.png",
+      "category": "monster",
+      "strength": 7
+    },
+    {
+      "id": 15,
+      "name": "Chuchu",
+      "image": "https://images.saymedia-content.com/.image/t_share/MTc0NDU1NTk5MTQzMTM0NTY4/most-annoying-monsters-breath-of-the-wild.png",
+      "category": "monster",
+      "strength": 2
+    },
+    {
+      "id": 16,
+      "name": "Yiga Foot Soldier",
+      "image": "https://www.zeldadungeon.net/wiki/images/9/9d/Yiga-footsoldier.jpg",
+      "category": "monster",
+      "strength": 7
+    }
+  ]
+}
