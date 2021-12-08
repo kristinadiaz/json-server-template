@@ -3,14 +3,14 @@
     {
       "id": 1,
       "name": "Link",
-      "image": "https://cdn3.whatculture.com/images/2017/03/c8c9d0abd61aafd7-600x338.png",
+      "image": "https://www.creativeuncut.com/gallery-31/art/lozbotw-link-and-bow_s.jpg",
       "category": "hero",
       "strength": 15
     },
     {
       "id": 2,
-      "name": "Zelda",
-      "image": "https://www.videogamer.com/wp-content/uploads/c8ece80c-974a-42c0-a0ce-93f3fccd980d_Zelda.jpg",
+      "name": "Princess Zelda",
+      "image": "https://www.creativeuncut.com/gallery-31/art/lozbotw-princess-zelda_s.jpg",
       "category": "hero",
       "strength": 10
     },
@@ -23,36 +23,36 @@
     },
     {
       "id": 4,
-      "name": "Hudson",
-      "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f5/BotW_Hudson_Model.png/revision/latest/scale-to-width-down/320?cb=20210423204715",
+      "name": "Urbosa",
+      "image": "https://www.creativeuncut.com/gallery-31/art/lozbotw-urbosa_s.jpg",
       "category": "hero",
       "strength": 11
     },
     {
       "id": 5,
       "name": "Revali",
-      "image": "https://cdn3.whatculture.com/images/2017/03/f089c816a731e085-600x338.jpg",
+      "image": "https://www.creativeuncut.com/gallery-31/art/lozbotw-revali_s.jpg",
       "category": "hero",
       "strength": 12
     },
     {
       "id": 6,
       "name": "Daruk",
-      "image": "https://cdn3.whatculture.com/images/2017/03/c13933912460342c-600x338.png",
+      "image": "https://www.creativeuncut.com/gallery-31/art/lozbotw-goron_s.jpg",
       "category": "hero",
       "strength": 15
     },
     {
       "id": 7,
       "name": "Mipha",
-      "image": "https://cdn3.whatculture.com/images/2017/03/ec150b86c8c9988f-600x338.jpg",
+      "image": "https://www.creativeuncut.com/gallery-31/art/lozbotw-zora_s.jpg",
       "category": "hero",
       "strength": 13
     },
     {
       "id": 8,
       "name": "Prince Sidon",
-      "image": "https://cdn3.whatculture.com/images/2017/03/0191cad8278dff8f-600x338.jpg",
+      "image": "https://i.etsystatic.com/20189885/r/il/80ffa3/1992198334/il_1588xN.1992198334_ali5.jpg",
       "category": "hero",
       "strength": 13
     },
@@ -66,7 +66,7 @@
     {
       "id": 10,
       "name": "Bokoblin",
-      "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/58/BotW_Black_Bokoblin_Model.png/revision/latest/scale-to-width-down/250?cb=20180103012046",
+      "image": "https://www.creativeuncut.com/gallery-31/art/lozbotw-bokoblin_s.jpg",
       "category": "monster",
       "strength": 8
     },
@@ -101,7 +101,7 @@
     {
       "id": 15,
       "name": "Chuchu",
-      "image": "https://images.saymedia-content.com/.image/t_share/MTc0NDU1NTk5MTQzMTM0NTY4/most-annoying-monsters-breath-of-the-wild.png",
+      "image": "https://static.wikia.nocookie.net/breath-of-the-wild/images/a/ae/Chuchu.jpg/revision/latest?cb=20200309235702",
       "category": "monster",
       "strength": 2
     },
